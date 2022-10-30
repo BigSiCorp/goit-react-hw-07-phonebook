@@ -1,0 +1,16 @@
+.formMain {
+    margin-left: 15px;
+}
+
+.formInput {
+    margin-bottom: 10px;
+}
+
+.btnForm {
+    margin-top: 15px;
+    border: transparent;
+    border-radius: 5px;
+    outline: 1px solid black;
+    /* background-color: azure; */
+    color: darkorchid;
+}

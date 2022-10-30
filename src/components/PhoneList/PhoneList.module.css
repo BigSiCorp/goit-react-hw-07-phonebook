@@ -1,0 +1,25 @@
+.phoneList {
+  margin-top: 20px;
+  margin-left: 15px;
+  list-style: none;
+  width: 275px;
+}
+
+.phoneItem {
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.btnDelete {
+  border: transparent;
+  border-radius: 5px;
+  outline: 1px solid black;
+
+  color: darkorchid;
+}
+
+.loader {
+  position: absolute;
+  left: 50%;
+}
